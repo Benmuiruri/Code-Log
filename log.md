@@ -24,18 +24,23 @@
 **Link to work**
 - [Github Repo](https://github.com/Benmuiruri/test-setup)
 
-### Day 2: 8 February 2021
+
+### Day 2: 16 February 2021
 ##### (To Do)
-- 
+- Write the desktop version CSS for my portfolio project.
 
 **Notes of Today's Progress**
-- 
+- I was able to write the desktop version CSS for the header section and hero section CSS 
 
 **Questions from Today's Work**
+- I did not have any questions for today.
 **Resources/Links**
-- 
+- [Excellent article explaining CSS Responsiveness by A List Apart](https://alistapart.com/article/responsive-web-design/)
 
 **Random Thoughts**
-- 
+- I learned that writing mobile first code is more efficient, there is less repetition. Going forward I will be writing mobile first code. 
+- I am slowly starting to know what to do when I want to style things. A week ago I could not think for myself what could be done. I used to check other people's code. At least now, I know what to do, I just reference how to do it. In a couple of weeks I will be able to style elements just by writing it out.
+- The microverse journey is great so far, but I have not adjust 100% on the fast pace. My time management needs some work. That's the reason why I have not being updating my daily log because "I dont have time." I will definitely work on that. 
 
 **Link to work**
+[Github](https://github.com/Benmuiruri/my-portfolio/tree/responsive-redesign)
