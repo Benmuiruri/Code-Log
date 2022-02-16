@@ -1,5 +1,24 @@
 ### Day 1: 7 February 2021
 ##### (To Do)
+- 
+
+**Notes of Today's Progress**
+- 
+
+
+**Questions from Today's Work**
+- 
+
+**Resources/Links**
+- 
+
+**Random Thoughts**
+- 
+**Link to work**
+- 
+
+### Day 1: 7 February 2021
+##### (To Do)
 - Setting up HTML and CSS Linters in the Hello Microverse Project
 - Learning the Github Flow for professional software development
 - Request a Code Review 
@@ -15,7 +34,7 @@
 - How do you check quiz accuracy
 
 **Resources/Links**
-- [CSS Reset link] (https://meyerweb.com/eric/tools/css/reset/)
+- [CSS Reset link](https://meyerweb.com/eric/tools/css/reset/)
 
 **Random Thoughts**
 - It's a skill reading error messages and taking a moment to think about the error. Not just rushing to look for the answer or getting frustated by an error. Every error has a solution. 
@@ -43,4 +62,4 @@
 - The microverse journey is great so far, but I have not adjust 100% on the fast pace. My time management needs some work. That's the reason why I have not being updating my daily log because "I dont have time." I will definitely work on that. 
 
 **Link to work**
-[Github](https://github.com/Benmuiruri/my-portfolio/tree/responsive-redesign)
+[Github Repo](https://github.com/Benmuiruri/my-portfolio/tree/responsive-redesign)
