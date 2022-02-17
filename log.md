@@ -63,3 +63,44 @@
 
 **Link to work**
 [Github Repo](https://github.com/Benmuiruri/my-portfolio/tree/responsive-redesign)
+
+### Day 8: 17 February 2021
+##### (To Do)
+- I updated my github README
+- Finished the desktop version CSS and the project was approved
+**Notes of Today's Progress**
+- Decent progress today. From morning I knew that today was not going to be a tough day. Although I understimated how long it would take me to finish the web-version CSS. It took longer because I had written not the very best of mobile CSS.
+
+
+**Questions from Today's Work**
+- No questions today. 
+
+**Resources/Links**
+- Mainly relied on MDN
+
+**Random Thoughts**
+- It feels nice to complete a project successfully. I like how I am learning how to do things properly. 
+- One reviewer said my code was one of the best ones... That was nice to hear. 
+
+**Link to work**
+[My portfolio website](https://www.benkiarie.live/my-portfolio/)
+### Day 9: 18 February 2021
+##### (To Do)
+- Froggy Flex box
+- Update log.md README
+- Update my portfolio website README 
+
+**Notes of Today's Progress**
+- 
+
+
+**Questions from Today's Work**
+- 
+
+**Resources/Links**
+- 
+
+**Random Thoughts**
+- 
+**Link to work**
+- 
