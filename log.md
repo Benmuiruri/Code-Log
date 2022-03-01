@@ -84,11 +84,32 @@
 
 **Link to work**
 [My portfolio website](https://www.benkiarie.live/my-portfolio/)
+### Day 9: 1 March 2021
+##### (To Do)
+
+**Notes of Today's Progress**
+- I finished the mobile menu modal thanks to an [amazing tutorial](https://webdesign.tutsplus.com/tutorials/how-to-build-flexible-modal-dialogs-with-html-css-and-javascript--cms-33500) by [George](https://tutsplus.com/authors/george-martsoukos)
+
+
+**Questions from Today's Work**
+- What is best practice in terms of either placing a script at the bottom or using the The DOMContentLoaded event script
+
+**Resources/Links**
+- This [amazing tutorial](https://webdesign.tutsplus.com/tutorials/how-to-build-flexible-modal-dialogs-with-html-css-and-javascript--cms-33500) by [George](https://tutsplus.com/authors/george-martsoukos)
+
+**Random Thoughts**
+- Today was a tough day, getting stuck and not knowing who to ask or where to ask for a little nudge is tough.
+
+**Link to work**
+- Specific [Github Pull Request](https://github.com/Benmuiruri/my-portfolio/pull/16)
+- [Live Portfolio](https://benmuiruri.github.io/my-portfolio/)
+
 ### Day 9: 18 February 2021
 ##### (To Do)
 - Froggy Flex box
 - Update log.md README
 - Update my portfolio website README 
+- Finish project detail pop up window
 
 **Notes of Today's Progress**
 - 
@@ -103,4 +124,3 @@
 **Random Thoughts**
 - 
 **Link to work**
-- 
